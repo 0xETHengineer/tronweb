@@ -27,7 +27,7 @@
         }
     },
     "dependencies": {
-        "@babel/runtime": "^7.0.0",
+        "@babel/runtime": "^7.23.1",
         "@ethersproject/abi": "^5.7.0",
         "@tronweb3/google-protobuf": "^3.21.2",
         "axios": "^0.26.1",
